@@ -1,0 +1,1 @@
+Depois de algum tempo, consegui realizar a inclusão de repositório, bem como clonar e enviar para o Git
